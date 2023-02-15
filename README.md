@@ -29,3 +29,12 @@ Desarrollar un video que contenga cuatro ejercicios y la explicación del marco 
 
 # 2. Marco Teórico
 
+![image](https://user-images.githubusercontent.com/116761073/219064889-236d8742-5aa8-46d6-86a4-49af1be3ee2b.png)
+
+![image](https://user-images.githubusercontent.com/116761073/219065003-9ec78143-1d50-49f2-92bf-0fed3a369586.png)
+
+![image](https://user-images.githubusercontent.com/116761073/219065093-1a1a4fc5-b657-4fbd-b6f1-ed2baeee91bb.png)
+
+![image](https://user-images.githubusercontent.com/116761073/219065178-14a9dff9-d1ac-4de9-b09d-33cee40e6de6.png)
+
+
