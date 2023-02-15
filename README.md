@@ -17,15 +17,15 @@ Tema: Cap 15 y 16 del libro Principios de circuitos eléctricos Thomas L. Floyd 
 
 ## Objetivos generales
 
-Investigue sobre "Circuitos Rc" y "Circuitos Rl", mediante el libro establecido en hora de clase "Principios de circuitos electricos de Floyd" para lograr una mejor comprensión de la materia durante el periodo de mayo a septiembre del 2022.
+• Investigue sobre "Circuitos Rc" y "Circuitos Rl", mediante el libro establecido en hora de clase "Principios de circuitos electricos de Floyd" para lograr una mejor comprensión de la materia durante el periodo de mayo a septiembre del 2022.
 
 ## Objetivos Específicos:
 
-Realizar mapas conceptuales mediante la información de los capítulos establecidos por tarea para lograr resumir de mejor manera y tener los conceptos claros.
+• Realizar mapas conceptuales mediante la información de los capítulos establecidos por tarea para lograr resumir de mejor manera y tener los conceptos claros.
 
-Desarrollar los ejercicios realizados por capitulo (pares), con esto lograr aplicar lo comprensivo y resumido en los mapas conceptuales anteriores para solventar dudas y tener una informacion mas amplia.
+• Desarrollar los ejercicios realizados por capitulo (pares), con esto lograr aplicar lo comprensivo y resumido en los mapas conceptuales anteriores para solventar dudas y tener una informacion mas amplia.
 
-Desarrollar un video que contenga cuatro ejercicios y la explicación del marco teórico con esto demostrar el trabajo aplicado en el informe para el conocimiento del docente.
+• Desarrollar un video que contenga cuatro ejercicios y la explicación del marco teórico con esto demostrar el trabajo aplicado en el informe para el conocimiento del docente.
 
 # 2. Marco Teórico
 
@@ -136,20 +136,21 @@ Desarrollar un video que contenga cuatro ejercicios y la explicación del marco 
 # 4. Vídeo
 # 5. Conclusiones
 
-En conclusión, la impedancia de un circuito en serie RL formado por resistencia y reactancia inductiva es la fuerza reactiva total con respecto a una corriente sinusoidal. La unidad es Ω (ohm). La impedancia también provoca una diferencia de fase entre la corriente total y la tensión de alimentación. Por lo tanto, la impedancia consta de un componente de magnitud y un componente de ángulo de fase.
+• En conclusión, la impedancia de un circuito en serie RL formado por resistencia y reactancia inductiva es la fuerza reactiva total con respecto a una corriente sinusoidal. La unidad es Ω (ohm). La impedancia también provoca una diferencia de fase entre la corriente total y la tensión de alimentación. Por lo tanto, la impedancia consta de un componente de magnitud y un componente de ángulo de fase.
 
-Si la tensión de entrada en un circuito en serie RL es sinusoidal, todas las corrientes y tensiones son sinusoidales. La inductancia desplaza la fase de la tensión y la corriente, pero esto depende de los valores relativos a la resistencia y la reactancia inductiva.
+• Si la tensión de entrada en un circuito en serie RL es sinusoidal, todas las corrientes y tensiones son sinusoidales. La inductancia desplaza la fase de la tensión y la corriente, pero esto depende de los valores relativos a la resistencia y la reactancia inductiva.
 
-Los números complejos permiten el análisis de los circuitos con fuentes alternas, además de poder proyectar el voltaje o corriente en un plano complejo.
+• Los números complejos permiten el análisis de los circuitos con fuentes alternas, además de poder proyectar el voltaje o corriente en un plano complejo.
 
-La impedancia de un circuito es el conjunto de componentes que se resisten al paso de la corriente, además, la impedancia en un circuito alterno representa el valor de la resistencia en la ley de ohm aplicada a la corriente con fuente alterna.
+• La impedancia de un circuito es el conjunto de componentes que se resisten al paso de la corriente, además, la impedancia en un circuito alterno representa el valor de la resistencia en la ley de ohm aplicada a la corriente con fuente alterna.
 
-En conclusión tenemos que el circuito RL de adelanto es un circuito de desplazamiento de fase en el cual el voltaje de salida aparece adelantado con respecto al voltaje de entrada en una cantidad especificada.
+• En conclusión tenemos que el circuito RL de adelanto es un circuito de desplazamiento de fase en el cual el voltaje de salida aparece adelantado con respecto al voltaje de entrada en una cantidad especificada.
 
-El circuito RL de retraso es un circuito de desplazamiento de cantidad de fase en el cual el voltaje de salida se retrasa con respecto al voltaje de entrada en una especificada.
+• El circuito RL de retraso es un circuito de desplazamiento de cantidad de fase en el cual el voltaje de salida se retrasa con respecto al voltaje de entrada en una especificada.
 
 # 6. Bibliografia
 
 Floyd, T. (2007). Principios de circuitos electricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
 
 
