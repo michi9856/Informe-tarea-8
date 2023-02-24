@@ -134,6 +134,9 @@ Tema: Cap 15 y 16 del libro Principios de circuitos eléctricos Thomas L. Floyd 
 ![image](https://user-images.githubusercontent.com/116761073/219073058-d70976c4-a52e-43b6-bc21-2ea46ae9a77f.png)
 
 # 4. Vídeo
+
+https://www.youtube.com/watch?v=iOtfPV1wYjc&t=3s
+
 # 5. Conclusiones
 
 • En conclusión, la impedancia de un circuito en serie RL formado por resistencia y reactancia inductiva es la fuerza reactiva total con respecto a una corriente sinusoidal. La unidad es Ω (ohm). La impedancia también provoca una diferencia de fase entre la corriente total y la tensión de alimentación. Por lo tanto, la impedancia consta de un componente de magnitud y un componente de ángulo de fase.
